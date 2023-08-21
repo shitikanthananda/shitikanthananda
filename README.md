@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shitikanthananda
-- 👀 I’m interested in data science and cyber security.
-- 🌱 I’m currently learning Python and C++.
+- 👀 I’m interested in data science and full stack web development.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me through Gmail - nshitikantha@gmail.com
 - 
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shitikanthananda
 - 👀 I’m interested in data science and full stack web development.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me through Gmail - nshitikantha@gmail.com
+- 📫 Reach me through Gmail - nshitikantha@gmail.com
 - 
 
 <!---
